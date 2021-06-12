@@ -1,0 +1,6 @@
+https://www.datacamp.com/community/tutorials/lstm-python-stock-market
+
+
+https://stackabuse.com/time-series-prediction-using-lstm-with-pytorch-in-python/
+
+
