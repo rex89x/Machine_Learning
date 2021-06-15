@@ -53,13 +53,6 @@ model.compile(loss = "binary_crossentropy", optimizer = "adam", metrics = ["accu
 
 #正負面含意分類主要程式
 
-#連結pgSQL
-conn = psycopg2.connect(database = "d7eu9qsublnd6e",
-                        user = "lvbstcegsalqac",
-                        password = "a1001590e6979b1c0dcc8ac371462f756c1b8c5f8db7cb7d3c1df952323bf011",
-                        host = "184.73.198.174",
-                        port = "5432"
-                        )
 
 #資料庫預備
 twt = ['']
